@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-04T23:07:56 CDT" name="Default suite" finished-at="2021-10-04T23:07:56 CDT" duration-ms="61">
+    <groups>
+    </groups>
+    <test started-at="2021-10-04T23:07:56 CDT" name="Default test" finished-at="2021-10-04T23:07:56 CDT" duration-ms="61">
+      <class name="CountDataTypes.CountDataTypesString">
+        <test-method signature="findCountOfDataTypesInAString()[pri:0, instance:CountDataTypes.CountDataTypesString@7fc229ab]" started-at="2021-10-04T23:07:56 CDT" name="findCountOfDataTypesInAString" finished-at="2021-10-04T23:07:56 CDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findCountOfDataTypesInAString -->
+      </class> <!-- CountDataTypes.CountDataTypesString -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
